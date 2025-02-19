@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error related to improper exception handling in Python. The original code lacks complete exception handling which can lead to unexpected crashes. The improved solution demonstrates how to use more precise exception handling.
